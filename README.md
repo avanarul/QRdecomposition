@@ -61,7 +61,8 @@ print("",R)
 
 ## Output
 ```
-<img width="1160" height="666" alt="image" src="https://github.com/user-attachments/assets/082aea89-9951-493d-b7d8-76c49e48485b" />
+<img width="1160" height="666" alt="image" src="https://github.com/user-attachments/assets/f9a15751-a33d-4790-932e-221312f978cb" />
+
 
 ```
 
